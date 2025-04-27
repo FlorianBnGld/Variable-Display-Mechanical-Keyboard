@@ -14,7 +14,7 @@ Ce projet s'inscrit dans l'option Maker de deuxième année à l'ENSEA. Il a ét
 
 #### Le PCB
 
-La première étape fut le design d'une PCB, intégrant les switchs Cherry MX RED, une STM32G474RET6, 4 multiplexeurs I2C TCA9548A, ainsi que des connecteurs 4 pins pour les écrans MCOT064032A1V-YI. Toutes les documentations et les fichiers du PCB sont à retrouver sur le GitHub du projet, juste en dessous.
+La première étape fut le design d'une PCB, intégrant les switchs Cherry MX RED, une STM32G474RET6, 4 multiplexeurs I2C TCA9548A, ainsi que des connecteurs 4 pins pour les écrans MCOT064032A1V-YI. Toutes les documentations et les fichiers du PCB sont à retrouver sur le GitHub du projet, juste en dessous. (Bon, vous êtes déjà dessus normalement mais bon...)
 
 👉 [**Le GitHub du Projet**](https://github.com/FlorianBnGld/Variable-Display-Mechanical-Keyboard.git)
 
