@@ -1,8 +1,4 @@
-# Variable-Display-Mechanical-Keyboard
-
-This keyboard can change its layout (AZERTY, QWERTY) or language using small screens on each key.
-
-# Florian Bonnet--Galand - ENSEA - 2025
+### Florian Bonnet--Galand - ENSEA - 2025
 
 # Le Clavier Reconfigurable
 
